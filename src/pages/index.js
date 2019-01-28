@@ -12,7 +12,11 @@ export default ({ data }) => {
   console.log(data);
   return (
     <Layout>
-      <div>
+      <div
+        css={css`
+          margin-top: -60px;
+        `}
+      >
         <div
           css={css`
             display: flex;
@@ -25,6 +29,7 @@ export default ({ data }) => {
             css={css`
               height: 400px;
               border-radius: 50%;
+              z-index: 200;
             `}
             src={headshot}
             alt="Logo"
@@ -44,21 +49,18 @@ export default ({ data }) => {
               justify-content: center;
               align-items: center;
               text-align: center;
-              width: 80%;
+              width: 90%;
             `}
           >
             <p>
               Welcome to my blog! My name is Justin Fan and I'm a senior @{" "}
-              <b>Rice University</b> currently pursuing B.A. in computer
-              science. I'm an aspiring product manager, but I've always loved
+              <b>Rice University</b> currently pursuing B.A. in Computer
+              Science. I'm an aspiring product manager, but I've always loved
               tinkering with different technologies and designing things myself
               so I built this blog using <b>Gatsby</b>, a blazing fast static
               site generator. This is just v1, but be on the lookout for new
-              changes as I continue to iterate and explore Gatsby's ruch plugin
+              changes as I continue to iterate and explore Gatsby's rich plugin
               ecosystem!
-            </p>
-            <p>
-            For the best performance, <b>please view this site on a tablet / laptop using chrome!</b>
             </p>
             <div
               css={css`
@@ -68,6 +70,7 @@ export default ({ data }) => {
                 justify-content: center;
                 align-items: center;
                 text-align: center;
+                padding-bottom:1rem;
               `}
             >
               <AboutButton link="https://www.gatsbyjs.org/" class="contact2">
@@ -94,6 +97,10 @@ export default ({ data }) => {
                 </div>
               </AboutButton>
             </div>
+            <p>
+            For the best performance, <b>please view this site on a tablet / laptop using chrome!</b>
+            
+            </p>
           </div>
         </div>
 
