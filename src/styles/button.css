@@ -1,0 +1,84 @@
+.contactButton {
+    color: #ea9696;
+    padding: 10px 20px; 
+    display: inline-block;
+    border: 1px solid #ea9696;
+    border-radius: 40px;
+    border-width: 3px;
+    background-image: none
+
+}
+
+.contact2 {
+    color: black;
+}
+
+.contactButton:hover {
+    text-decoration: none;
+    color: white;
+    background-color: #ea9696;
+    -webkit-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    transition: all 300ms ease;
+}
+
+.gatsby-resp-image-wrapper,
+ .link,
+ .gatsby-resp-image-link {
+    background-image: none
+}
+
+#navbar {
+    /* background-color: rgba(50, 50, 50, 0.5); */
+    /* color: #fff; */
+    z-index: 10000;
+    background-color: white;
+    padding: 30px;
+    padding-top: 3rem;
+    height: 70px;
+  /* Without the four declarations below (position, width, box-sizing, top), then hero area and navbar are at the top.  With them, there is a white bar on CodePen. On my site that top white bar is not there. */
+    position: fixed;
+    width: 100%;
+    box-sizing: border-box;
+    /* top 0; */
+  }
+
+  .blogEntry {
+      padding: 1rem;
+  }
+  .blogEntry:hover {
+    background-color: #ea9696;
+    color: white;
+    -webkit-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    transition: all 300ms ease;
+  }
+
+  .mdHeadshot {
+      border-radius: 50%;
+      height: 50px;
+  }
+
+  .zeroMargin,
+  .css-zyojiz,
+  #zero {
+      margin: 0px
+
+  }
+
+  #grey {
+    color: #ea9696;
+    margin: 0px
+
+  }
+
+.small {
+      font-size: 15px;
+      padding: 2px;
+      padding-left: 4px;
+
+  }
