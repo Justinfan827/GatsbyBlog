@@ -2,7 +2,7 @@
 title: " Meditation made consistent with Headspace: a product review"
 subtitle: "By Justin Fan"
 image: "../assets/headspacebanner3.jpg"
-date: "2017-08-21"
+date: "2019-01-21"
 ---
 
 
