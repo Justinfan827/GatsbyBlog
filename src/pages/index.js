@@ -54,13 +54,12 @@ export default ({ data }) => {
           >
             <p>
               Welcome to my blog! My name is Justin Fan and I'm a senior @{" "}
-              <b>Rice University</b> currently pursuing B.A. in Computer
-              Science. I'm an aspiring product manager, but I've always loved
-              tinkering with different technologies and designing things myself
-              so I built this blog using <b>Gatsby</b>, a blazing fast static
-              site generator. This is just v1, but be on the lookout for new
-              changes as I continue to iterate and explore Gatsby's rich plugin
-              ecosystem!
+              <b>Rice University</b> currently pursuing a B.A. in computer
+              science. I'm an aspiring product manager and have always loved
+              tinkering with different technologies. I also enjoy designing
+              things myself so rather than using your typical CMS, I built this
+              blog using <b>Gatsby</b>, a static site generator that combines the latest
+              web technologies such as Webpack, React, GraphQL.
             </p>
             <div
               css={css`
@@ -70,7 +69,7 @@ export default ({ data }) => {
                 justify-content: center;
                 align-items: center;
                 text-align: center;
-                padding-bottom:1rem;
+                padding-bottom: 1rem;
               `}
             >
               <AboutButton link="https://www.gatsbyjs.org/" class="contact2">
@@ -97,9 +96,11 @@ export default ({ data }) => {
                 </div>
               </AboutButton>
             </div>
-            <p>
-            For the best performance, <b>please view this site on a tablet / laptop using chrome!</b>
-            
+            <p align="center">
+              This is just v1 but be on the lookout for new changes as I
+              continue to iterate and explore Gatsby's rich plugin ecosystem!
+              For the best performance, please view this site on a{" "}
+              <b>tablet or a laptop using Chrome!</b>
             </p>
           </div>
         </div>
