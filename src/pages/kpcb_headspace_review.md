@@ -266,7 +266,7 @@ __*But wait… there’s more!*__
 
 #### Fulfilling psychological needs
 
-Intrinsic motivation is closely tied to the theory of [self-determination](https://positivepsychologyprogram.com/self-determination-theory/), which states that
+Intrinsic motivation is closely tied to the  theory of [self-determination](https://positivepsychologyprogram.com/self-determination-theory/), which states that
 
 > people are motivated by three universal psychological needs: competence, relatedness, and autonomy. When we satisfy these needs, we enhance self-motivation.
 
