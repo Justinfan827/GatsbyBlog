@@ -43,7 +43,7 @@ export default props => {
       >
 
         <p class="small zeroMargin">Justin Fan - Aspiring Product Manager, Student </p>
-        <p class="small" id="grey">{props.date} {"  |  "} 30 minute read  </p>
+        <p class="small" id="grey">{props.date} {"  |  "} 20 minute read  </p>
       </div>
 
 

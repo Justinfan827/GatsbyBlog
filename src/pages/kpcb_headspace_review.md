@@ -89,7 +89,7 @@ Take the home screen as an example. In the viewport, there are 3 identifiable se
 
 I also really like the ‘People getting headspace today’ section. The subtle use of descriptive norms motivates me to start using the app. I almost feel as if I'm missing out by not doing so.
 
-#### Iconography/ custom art style
+#### Iconography and custom art style
 
 Icons are stripped to the bare minimum. I personally think this a great design choice – icons aren’t the place to be creative. Fewer graphic details aid recognition, making icons adhere to the principle of affordance: where an object’s sensory characteristics intuitively imply its functionality and use.
 
@@ -259,7 +259,7 @@ Headspace does use streaks to motivate you to come back to the app, but rather t
 
 ---
 
-It’s almost as if with each session you’re crafting your own meditation narrative—a personal path towards mindfulness. This notion of you own ‘journey’ is so powerful on a psychological level because gamification oftentimes just uses extrinsic rewards such as ‘gold points’ or ‘gems’ to generate extrinsic motivation, but the ‘journey’ makes the rewards intrinsic by nature. It’s not about what level you get to, it’s about how far you’ve gone in investing in your own mindfulness. This generates tremendous intrinsic motivation which according to research is one of the best ways to create long-term behavior change. In other words, the notion of the ‘journey’ helps users stay consistent with their meditation!
+It’s almost as if with each session you’re crafting your own meditation narrative—a personal path towards mindfulness. This notion of your own ‘journey’ is so powerful on a psychological level because gamification oftentimes just uses extrinsic rewards such as ‘gold points’ or ‘gems’ to generate extrinsic motivation, but the ‘journey’ makes the rewards intrinsic by nature. It’s not about what level you get to, it’s about how far you’ve gone in investing in your own mindfulness. This generates tremendous intrinsic motivation which according to research is one of the best ways to create long-term behavior change. In other words, the notion of the ‘journey’ helps users stay consistent with their meditation!
 
 <!--
 __*But wait… there’s more!*__
@@ -276,7 +276,7 @@ _Competence_ refers to our need to build competence and develop mastery over tas
 
 _Relatedness_ refers to the need to interact with others. In this aspect, Headspace is lacking. Although Headspace does have a feature allowing you to ‘add a buddy’ and see their meditation stats, it doesn’t really allow for any active engagement with other users (scroll to the bottom for more info). -->
 
-I'm personally very interested in the intersection of technology, health, and wellness, which is why I was so excited to try Headspace. I’ve used plenty of other wellness apps, but most of them just provide one size fits all solutions. For example, the FitBit tracker sets a fixed goal of 10,000 steps for all of its users instead of setting one based on their fitness and needs. I believe that rather than glorifying an arbitrary end-goal, health and wellness apps should be in the business of empowering its users. We should be using a wellness app that tailors its experience to help us meet our own goals instead of a rigid and impersonal one. Headspace allows users to freely make informed choices by showing them several courses that have scientifically-backed benefits. And this, in my opinion, is what makes Headspace shine.
+I'm personally very interested in the intersection of technology, health, and wellness, which is why I was so excited to try Headspace. I’ve used plenty of other wellness apps, but most of them just provide one size fits all solutions. For example, the FitBit tracker sets a fixed goal of 10,000 steps for all of its users instead of setting one based on their fitness and needs. I believe that rather than glorifying an arbitrary end-goal, health and wellness apps should be in the business of empowering their users. We should be using a wellness app that tailors its experience to help us meet our own goals instead of a rigid and impersonal one. Headspace allows users to freely make informed choices by showing them several courses that have scientifically-backed benefits. And this, in my opinion, is what makes Headspace shine.
 
 As you can probably tell from this review, I’ve really bought into Headspace and the benefits. I’m a skeptical person who takes a lot of convincing when trying something new, but the combination of beautiful, functional design, quality content, and dedication to studying the scientific validity of meditation has got me sold. I’m a fan of Headspace, and if you try it for 10 days, **_I’m sure you will be too._**
 

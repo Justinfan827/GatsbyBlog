@@ -54,8 +54,8 @@ export default ({ data }) => {
           >
             <p>
               Welcome to my blog! My name is Justin Fan and I'm a senior @{" "}
-              <b>Rice University</b> currently pursuing a B.A. in computer
-              science. I'm an aspiring product manager and have always loved
+              <b>Rice University</b> currently pursuing a B.A. in Computer
+              Science. I'm an aspiring product manager and have always loved
               tinkering with different technologies. I also enjoy designing
               things myself so rather than using your typical CMS, I built this
               blog using <b>Gatsby</b>, a static site generator that combines the latest
@@ -97,10 +97,10 @@ export default ({ data }) => {
               </AboutButton>
             </div>
             <p align="center">
-              This is just v1 but be on the lookout for new changes as I
+              This is just version 1 but be on the lookout for new changes as I
               continue to iterate and explore Gatsby's rich plugin ecosystem!
               For the best performance, please view this site on a{" "}
-              <b>tablet or a laptop using Chrome!</b>
+              <b>tablet or a laptop using Chrome.</b>
             </p>
           </div>
         </div>
