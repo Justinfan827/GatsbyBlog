@@ -151,7 +151,7 @@ First off, I love the dropdown menu’s function as both a header and navigation
 
 ### 3. Incredible onboarding and early user engagement
 
-The onboarding of the app is really phenomenal. With a big problem being the misconceptions around meditation, you would think the first onboarding screen would address this point. Instead, onboarding is focused on addressing why you’re using the app and how you're going to use the app.
+The onboarding of the app is really phenomenal. With a big problem being the misconceptions around meditation, you would think the first onboarding screen would address this point. Instead, onboarding focusses on addressing why you’re using the app and how you're going to use the app.
 
 The onboarding process consists of five simple screens / steps.
 
@@ -276,6 +276,8 @@ _Competence_ refers to our need to build competence and develop mastery over tas
 
 _Relatedness_ refers to the need to interact with others. In this aspect, Headspace is lacking. Although Headspace does have a feature allowing you to ‘add a buddy’ and see their meditation stats, it doesn’t really allow for any active engagement with other users (scroll to the bottom for more info). -->
 
+I’m personally really interested in the intersection of technology, health, and wellness, so I was really excited to try Headspace. I’ve used many other personal wellness apps, but many of them just provide one size fit all solutions. For example, the FitBit tracker sets a universal 10,000 step goal for all users, but shouldn’t the number of steps depend on the fitness of an individual? Rather than glorify some end-goal, health and wellness apps should be in the business of empowering users. We should be using a wellness app because we want to, not because we feel obliged to follow some rigid impersonal regimen. This is precisely where Headspace shines. Headspace gives scientifically backed reasons for using the app, allowing users to freely choose how they are going to reap the benefits. 
+
 As you can probably tell from this long review, I’ve really bought into Headspace and the benefits. I’m a skeptical person who takes a lot of convincing when trying something new, but the combination of beautiful, functional design, quality content, and dedication to studying the scientific validity of meditation has got me sold. I’m a fan of Headspace, and if you try it for 10 days, **_I’m sure you will be too._**
 
 ## Sounds like the perfect app! Is there room for improvement?
@@ -283,7 +285,7 @@ As you can probably tell from this long review, I’ve really bought into Headsp
 Of course there is! I love Headspace, but nothing is perfect. There is always room for improvement.
 
 1.  I wish the ‘add a buddy’ feature was fleshed out more. There needs to be more interaction with other Headspace users than just viewing their statistics. Perhaps a mini Q & A style blog where individuals can share their personal experiences and success stories with using Headspace, or a ‘group meditation’ feature which allows individuals to join live meditation sessions led by a trained instructor.
-2.  There isn’t any reusability in the sessions / courses. Once you’re finished with a course, there is no way to save it in any way to explore again. I would like to see a search feture so I could find specific sessions. It would also be very helpful if users could create their own set of courses (perhaps sharing those packs with others) to create an even more personal experience.
+2.  There isn’t any reusability in the sessions / courses. Once you’re finished with a course, there is no way to save it in any way to explore again. I would like to see a search feature so I could find specific sessions. It would also be very helpful if users could create their own set of courses (perhaps sharing those packs with others) to create an even more personal experience.
 3.  I love reading about the scientific research on meditation, but I understand that research papers aren’t the easiest to read. Currently, users can visit the website to view the research, but it isn't really accessible. It would be great to have a way to view the research in the app. For example, leverage the already existing animations that explain meditation concepts and create short summaries that cite research publications, or create a blog style feature where users can browse a library of research papers that have been simplified and shortened.
 
 ---
