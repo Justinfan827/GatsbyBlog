@@ -128,7 +128,7 @@ export default ({ data }) => {
               css={css`
                 background-image: none;
               `}
-              href={`/kpcb_headspace_review`}
+              href={`/headspace_review`}
             >
               <img
                 css={css`
