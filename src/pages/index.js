@@ -53,15 +53,15 @@ export default ({ data }) => {
             `}
           >
             <p>
-              Welcome to my blog! My name is Justin Fan and I'm recent graduate
-              from <b>Rice University</b> with a B.A. in Computer Science. I'm
-              an aspiring product manager and an entrepreneur at heart. I spend
-              my days honing my technical knowledge as a backend developer, as
-              well as working on launching a new messaging + event platform
-              driven by the concept of time-well spent. I love talking about the
-              intersection of technology and human behavior, so reach out if you
-              ever want to talk about the topics of humane design, building
-              community through technology, and mindful tech!
+              Welcome to my blog! My name is Justin Fan and I'm a recent
+              graduate from <b>Rice University</b> with a B.A. in Computer
+              Science. I'm an aspiring product manager and an entrepreneur at
+              heart. I spend my days honing my technical knowledge as a backend
+              developer, as well as working on launching a new messaging + event
+              planning platform driven by the concept of time-well spent. I love
+              talking about the intersection of technology and human behavior,
+              so reach out if you ever want to talk about the topics of humane
+              design, building community through technology, and mindful tech!
             </p>
             <p>
               I can't help but tinker with different technologies, so I built
