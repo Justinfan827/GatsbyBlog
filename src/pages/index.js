@@ -53,13 +53,21 @@ export default ({ data }) => {
             `}
           >
             <p>
-              Welcome to my blog! My name is Justin Fan and I'm a senior @{" "}
-              <b>Rice University</b> currently pursuing a B.A. in Computer
-              Science. I'm an aspiring product manager and have always loved
-              tinkering with different technologies. I also enjoy designing
-              things myself so rather than using your typical CMS, I built this
-              blog using <b>Gatsby</b>, a static site generator that combines the latest
-              web technologies such as Webpack, React, GraphQL.
+              Welcome to my blog! My name is Justin Fan and I'm recent graduate
+              from <b>Rice University</b> with a B.A. in Computer Science. I'm
+              an aspiring product manager and an entrepreneur at heart. I spend
+              my days honing my technical knowledge as a backend developer, as
+              well as working on launching a new messaging + event platform
+              driven by the concept of time-well spent. I love talking about the
+              intersection of technology and human behavior, so reach out if you
+              ever want to talk about the topics of humane design, building
+              community through technology, and mindful tech!
+            </p>
+            <p>
+              I can't help but tinker with different technologies, so I built
+              this blog using <b>Gatsby</b>, a static site generator that
+              combines the latest and greastest web technologies such as
+              Webpack, React, GraphQL.
             </p>
             <div
               css={css`
@@ -96,7 +104,12 @@ export default ({ data }) => {
                 </div>
               </AboutButton>
             </div>
-            <p align="center">
+            <p
+              css={css`
+                padding: 1rem;
+              `}
+              align="center"
+            >
               This is just version 1 but be on the lookout for new changes as I
               continue to iterate and explore Gatsby's rich plugin ecosystem!
               For the best performance, please view this site on a{" "}
