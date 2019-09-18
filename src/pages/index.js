@@ -55,8 +55,8 @@ export default ({ data }) => {
             <p>
               Welcome to my blog! My name is Justin Fan and I'm a recent
               graduate from <b>Rice University</b> with a B.A. in Computer
-              Science. I'm an aspiring product manager and an entrepreneur at
-              heart. I spend my days honing my technical knowledge as a backend
+              Science. I'm an aspiring entrepreneur interesting in using technology 
+              to improve processes so we can all live better lives. I spend my days honing my technical knowledge as a backend
               developer, as well as working on launching a new messaging + event
               planning platform driven by the concept of time-well spent. I love
               talking about the intersection of technology and human behavior,
