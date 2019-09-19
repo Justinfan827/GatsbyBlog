@@ -45,7 +45,7 @@ export default ({ data }) => {
           <div
             css={css`
               display: flex;
-              flex-direction: column;
+              flex-direction: column; 
               justify-content: center;
               align-items: center;
               text-align: center;
